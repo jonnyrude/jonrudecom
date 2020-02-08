@@ -1,0 +1,10 @@
+.container {
+  max-width: 1000px;
+  margin: 2em auto;
+  padding: 2em;
+  background-color: rgb(172, 204, 236);
+}
+
+.alert {
+  color: red;
+}
