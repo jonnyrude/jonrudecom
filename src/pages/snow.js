@@ -8,7 +8,7 @@ import Styles from "../components/styles/snow.module.css"
 const SecondPage = () => (
   <div className={Styles.container}>
     {/* <SEO title="Page two" /> */}
-    <h1>Alert for OM Emploees</h1>
+    <h1>Alert for OM Employees</h1>
     <p>There are currently no delays.</p>
     <br />
     <p>or...</p>
